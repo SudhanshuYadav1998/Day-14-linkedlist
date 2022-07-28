@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\bin\Debug\net6.0\Day-14-UC-3-limkedlist.exe
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\bin\Debug\net6.0\Day-14-UC-3-limkedlist.deps.json
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\bin\Debug\net6.0\Day-14-UC-3-limkedlist.runtimeconfig.json
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\bin\Debug\net6.0\Day-14-UC-3-limkedlist.dll
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\bin\Debug\net6.0\Day-14-UC-3-limkedlist.pdb
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.dll
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\refint\Day-14-UC-3-limkedlist.dll
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.pdb
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\Day-14-UC-3-limkedlist.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-14-UC-3-limkedlist\Day-14-UC-3-limkedlist\obj\Debug\net6.0\ref\Day-14-UC-3-limkedlist.dll
